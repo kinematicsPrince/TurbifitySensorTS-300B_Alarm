@@ -41,7 +41,14 @@ This turbidity sensor creates noise and light when the when the water's opacity 
 
 - Arduino IDE [2.3.3]
 
-## Usage Instructions
+## Assembly Instructions
+
+The plastic part is designed to specifically fit this container. You can find it at many stores including Dollarama
+<img src="https://github.com/user-attachments/assets/e4ec42ff-3c5e-4f75-99d3-e94040b381f9" alt="Sample Image" style="width:50%; height:auto;">
+
+## Usage Instruction
+
+You can use food coloring to artificially increase the opacity of the water. 
 
 ## Troubleshooting
 

@@ -2,7 +2,7 @@
 Thingiverse link:
 ## Project Overview
 
-This turbidity sensor creates noise and light when the when the water's opacity increases. To trigger the alarm, the opacity of the water must increase. The trigger value is based on the initial value obtained, therefore it changes everytime you reset.
+This turbidity sensor creates noise and light when the water's opacity increases by a certain amount. To trigger the alarm, the opacity of the water must increase. The trigger value is based on the initial value obtained, therefore it changes everytime you reset.
 
 ## Hardware Components
 
@@ -44,12 +44,13 @@ This turbidity sensor creates noise and light when the when the water's opacity 
 
 ## Assembly Instructions
 
-The plastic part is designed to specifically fit this container. You can find it at many stores including Dollarama
+The plastic part (`Sensor_Support.3MF`) is designed to specifically fit/clip on this container. You can find it at many stores including Dollarama.
 
 <img src="https://github.com/user-attachments/assets/e4ec42ff-3c5e-4f75-99d3-e94040b381f9" alt="Sample Image" style="width:50%; height:auto;">
 
-*Rectangular Plastic Storage Box With Lid Clear 9.9 cm
+*Rectangular Plastic Storage Box With Lid Clear 9.9 cm.
 
+The board included with the TS-300B sensor can be screwed on the plastic part (`Sensor_Support.3MF`) with two m3 screws.
 ## Usage Instruction
 
 You can use food coloring to artificially increase the opacity of the water. 
@@ -62,9 +63,9 @@ You can lower the sensitivity by increasing the tolerance (in the Arduino code),
 
 ## Files
 
-- `Motor_Support.3MF`: Right Wheel Side
-- `Motor_Support_Mirror.3MF`: Left Wheel Side
-- `Motor_Support.SLDPRT`: Solidworks file
+- `Arduino_Support.3MF`: An optional 3D printable Arduino Uno Support
+- `Sensor_Support.3MF`: 3D printable turbidity sensor holder that clips on the container
+- `License`: The license
 - `README.md`: This documentation file
 
 ## References

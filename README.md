@@ -60,7 +60,12 @@ You can lower the sensitivity by increasing the tolerance (in the Arduino code),
 
 ## Future Improvements
 
+## Files
 
+- `Motor_Support.3MF`: Right Wheel Side
+- `Motor_Support_Mirror.3MF`: Left Wheel Side
+- `Motor_Support.SLDPRT`: Solidworks file
+- `README.md`: This documentation file
 
 ## References
 

@@ -14,6 +14,7 @@ This turbidity sensor creates noise and light when the when the water's opacity 
 - Mini breadboard
 - 220 ohms resistor
 - 200 ohms resistor
+- 2x m3 screws
 
 ## Circuit Diagram
 
@@ -44,7 +45,10 @@ This turbidity sensor creates noise and light when the when the water's opacity 
 ## Assembly Instructions
 
 The plastic part is designed to specifically fit this container. You can find it at many stores including Dollarama
+
 <img src="https://github.com/user-attachments/assets/e4ec42ff-3c5e-4f75-99d3-e94040b381f9" alt="Sample Image" style="width:50%; height:auto;">
+
+*Rectangular Plastic Storage Box With Lid Clear 9.9 cm
 
 ## Usage Instruction
 
@@ -55,6 +59,8 @@ You can use food coloring to artificially increase the opacity of the water.
 You can lower the sensitivity by increasing the tolerance (in the Arduino code), the water's opacity difference will have to be higher in order to trigger the alarm
 
 ## Future Improvements
+
+
 
 ## References
 

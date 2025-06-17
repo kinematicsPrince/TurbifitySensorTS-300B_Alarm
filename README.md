@@ -67,6 +67,7 @@ You can lower the sensitivity by increasing the tolerance (in the Arduino code),
 - `Sensor_Support.3MF`: 3D printable turbidity sensor holder that clips on the container
 - `Arduino_Support.SLDPRT`: Solidworks version of the file (editable)
 - `Sensor_Support.SLDPRT`: Solidworks version of the file (editable)
+- `Code.ino`: Arduino Code
 - `License`: The license
 - `README.md`: This documentation file
 
